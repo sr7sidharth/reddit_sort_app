@@ -20,7 +20,7 @@ reddit = praw.Reddit(
 
 @app.route('/')
 def main():
-	url = reddit.auth.url(["*"], "...", "permanent")
+	url = reddit.auth.url(["*"], "...", "temporary")
 	text = '<a href="%s")>Click here to authorize reddit</a>'
 	return text % url
 
