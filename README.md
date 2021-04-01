@@ -1,0 +1,1 @@
+Log into reddit account -> Application views saved posts and sorts by subreddit or by nsfw/spoiler tag -> outputs to viewable html file
