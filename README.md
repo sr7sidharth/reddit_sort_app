@@ -18,6 +18,4 @@
 ### Filename: script_only.py
 
 - Script version of main.py.  
-- Invoke with:```
-python script_only.py *username* *password* *subdreddit_name* *limit*(optional)
-```
+- Invoke with:```python script_only.py *username* *password* *subdreddit_name* *limit*(optional)```
